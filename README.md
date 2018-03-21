@@ -7,4 +7,9 @@
 - 【领域/简介】（博客链接）
 
 # 博客列表
-
+- 【游戏开发】[shrekshao狄学长](http://shrekshao.github.io/)
+- 【游戏开发】[风云的Blog](https://blog.codingnow.com/)
+- 【JavaScript】[阮一峰老师](http://www.ruanyifeng.com/home.html)
+- 【JavaScript】[BYVoid](https://www.byvoid.com/)
+- 【C++】[轮子哥cvzh](http://cppblog.com/vczh)
+- 【CSS】[张鑫旭](http://www.zhangxinxu.com/)
