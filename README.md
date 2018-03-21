@@ -14,3 +14,5 @@
 - 【CSS】[张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 - 【算法】[July](http://blog.csdn.net/v_JULY_v) -- 七月在线人工智能培训平台创始人之一
 - 【架构】[陈皓](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
+- 【Linux】[张映](http://blog.51yip.com/) -- 运维大牛，linux命令手册在线查询作者
+
