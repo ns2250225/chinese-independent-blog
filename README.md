@@ -13,3 +13,4 @@
 - 【JavaScript】[BYVoid](https://www.byvoid.com/) -- 《Node.js开发指南》作者，到访过80+国家
 - 【CSS】[张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 - 【算法】[July](http://blog.csdn.net/v_JULY_v) -- 七月在线人工智能培训平台创始人之一
+- 【架构】[陈皓](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
