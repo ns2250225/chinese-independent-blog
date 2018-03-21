@@ -15,4 +15,4 @@
 - 【算法】[July](http://blog.csdn.net/v_JULY_v) -- 七月在线人工智能培训平台创始人之一
 - 【架构】[陈皓](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
 - 【Linux】[张映](http://blog.51yip.com/) -- 运维大牛，linux命令手册在线查询作者
-
+- 【Linux】[刘天斯](https://www.liuts.com/) -- 运维大牛，《Python自动化运维》作者
