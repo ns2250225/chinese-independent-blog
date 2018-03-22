@@ -25,3 +25,4 @@
 - 【Android】[kymjs张涛](https://kymjs.com/) -- 专注Android开发，技术实验室公众号作者
 - 【创业者】[meditic](http://meditic.com/category/all) -- 连续创业者，Tucia网创始人，《降级论》作者
 - 【TensorFlow】[斗大的熊猫](http://blog.topspeedsnail.com/) -- TensorFlow练习系列文章，深入浅出
+- 【Python】[luyishisi](https://www.urlteam.org/) -- Github项目Anti-Anti-Spider的作者，致力与反爬虫做斗争
