@@ -19,4 +19,5 @@
 - 【Linux】[刘天斯](https://www.liuts.com/) -- 运维大牛，《Python自动化运维》作者
 - 【电子书分享】[SaltTiger](https://salttiger.com/) -- 每天一本编程书，每天进步一点点
 - 【Java】[飒然Hang](http://www.rowkey.me/) -- 中华万年历技术总监，专注与JavaEE，系统架构，大数据等后端技术
+- 【Java】[王爵nice](https://blog.biezhi.me/) -- tale博客平台，bladeMVC框架，findor项目（个人名片项目）作者
 - 【创业者】[meditic](http://meditic.com/category/all) -- 连续创业者，Tucia网创始人，《降级论》作者
