@@ -48,7 +48,7 @@
 ## 【电子书分享】
 - [SaltTiger](https://salttiger.com/) -- 每天一本编程书，每天进步一点点
 ## 【Java】
-- [飒然Hang](http://www.rowkey.me/) -- 中华万年历技术总监，专注JavaEE，系统架构，大数据等后端技术
+- [飒然Hang](http://www.rowkey.me/) -- 专注JavaEE，系统架构，大数据等后端技术
 - [王爵nice](https://blog.biezhi.me/) -- tale博客平台，bladeMVC框架，findor项目（个人名片项目）作者
 - [vzard](https://vzardlloo.github.io/) -- 专注于JVM平台，喜欢深究基础知识
 ## 【Android】
