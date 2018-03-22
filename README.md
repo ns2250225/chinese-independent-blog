@@ -29,3 +29,4 @@
 - 【Django】[追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
 - 【Golang】[chai2010](https://chai2010.cn/) -- 《Go 语言圣经》翻译者，《Go 语言高级编程》开源免费图书作者
 - 【C++】[vczh轮子哥](http://www.cppblog.com/vczh) -- GacUI(这是一个使用GPU加速的C++ UI 库)作者，《C++ Primer》中文版第五版审校人员
+- 【Mac】[MacTalk池建强](http://macshuo.com/) -- 《MacTalk·人生元编程》作者，讲述技术与人文的故事
