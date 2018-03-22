@@ -11,6 +11,7 @@
 - 【游戏开发】[云风的Blog](https://blog.codingnow.com/)      -- 前网易游戏开发大神，深耕Lua
 - 【JavaScript】[阮一峰老师](http://www.ruanyifeng.com/home.html) -- 《ES6标准入门》作者，常年关注前沿技术
 - 【JavaScript】[BYVoid](https://www.byvoid.com/) -- 《Node.js开发指南》作者，到访过80+国家
+- 【JavaScript】[吴浩麟](http://wuhaolin.cn/) -- 《深入浅出WebPack》作者
 - 【CSS】[张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 - 【算法】[July](http://blog.csdn.net/v_JULY_v) -- 七月在线人工智能培训平台创始人之一
 - 【架构】[陈皓CoolShell](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
