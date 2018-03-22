@@ -8,63 +8,63 @@
 - 【领域/简介】（博客链接）-- 作者简介
 
 # 分类标签
-[![](https://img.shields.io/badge/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91--green.svg)](#)
-[![](https://img.shields.io/badge/JavaScript--brightgreen.svg)](#)
-[![](https://img.shields.io/badge/CSS--yellowgreen.svg)](#)
-[![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95--yellow.svg)](#)
-[![](https://img.shields.io/badge/%E6%9E%B6%E6%9E%84--orange.svg)](#)
-[![](https://img.shields.io/badge/Linux--red.svg)](#)
-[![](https://img.shields.io/badge/%E7%94%B5%E5%AD%90%E4%B9%A6--lightgrey.svg)](#)
-[![](https://img.shields.io/badge/Java--blue.svg)](#)
-[![](https://img.shields.io/badge/Android--brightgreen.svg)](#)
-[![](https://img.shields.io/badge/%E5%88%9B%E4%B8%9A%E8%80%85--green.svg)](#)
-[![](https://img.shields.io/badge/Tensorflow--yellowgreen.svg)](#)
-[![](https://img.shields.io/badge/Python--yellow.svg)](#)
-[![](https://img.shields.io/badge/Django--orange.svg)](#)
-[![](https://img.shields.io/badge/Golang--red.svg)](#)
-[![](https://img.shields.io/badge/C%2B%2B--lightgrey.svg)](#)
-[![](https://img.shields.io/badge/Mac--blue.svg)](#)
-[![](https://img.shields.io/badge/IOS--brightgreen.svg)](#)
+[![](https://img.shields.io/badge/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91--green.svg)](#【游戏开发】)
+[![](https://img.shields.io/badge/JavaScript--brightgreen.svg)](#【JavaScript】)
+[![](https://img.shields.io/badge/CSS--yellowgreen.svg)](#【CSS】)
+[![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95--yellow.svg)](#【算法】)
+[![](https://img.shields.io/badge/%E6%9E%B6%E6%9E%84--orange.svg)](#【架构】)
+[![](https://img.shields.io/badge/Linux--red.svg)](#【Linux】)
+[![](https://img.shields.io/badge/%E7%94%B5%E5%AD%90%E4%B9%A6--lightgrey.svg)](#【电子书分享】)
+[![](https://img.shields.io/badge/Java--blue.svg)](#【Java】)
+[![](https://img.shields.io/badge/Android--brightgreen.svg)](#【Android】)
+[![](https://img.shields.io/badge/%E5%88%9B%E4%B8%9A%E8%80%85--green.svg)](#【创业者】)
+[![](https://img.shields.io/badge/Tensorflow--yellowgreen.svg)](#【TensorFlow】)
+[![](https://img.shields.io/badge/Python--yellow.svg)](#【Python】)
+[![](https://img.shields.io/badge/Django--orange.svg)](#【Django】)
+[![](https://img.shields.io/badge/Golang--red.svg)](#【Golang】)
+[![](https://img.shields.io/badge/C%2B%2B--lightgrey.svg)](#【C++】)
+[![](https://img.shields.io/badge/Mac--blue.svg)](#【Mac】)
+[![](https://img.shields.io/badge/IOS--brightgreen.svg)](#【IOS】)
 
 # 博客列表
-- 【游戏开发】
+## 【游戏开发】
   - [shrekshao狄学长](http://shrekshao.github.io/) -- 机甲帝国游戏全栈开发工程师，爱好webgl，gltf建模
   - [云风的Blog](https://blog.codingnow.com/) -- 前网易游戏开发大神，深耕Lua
-- 【JavaScript】
+## 【JavaScript】
   - [阮一峰老师](http://www.ruanyifeng.com/home.html) -- 《ES6标准入门》作者，常年关注前沿技术
   - [BYVoid](https://www.byvoid.com/) -- 《Node.js开发指南》作者，到访过80+国家
   - [吴浩麟](http://wuhaolin.cn/) -- 《深入浅出WebPack》作者，liveGo开源流媒体服务器作者
-- 【CSS】
+## 【CSS】
   - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
-- 【算法】
+## 【算法】
   - [July](http://blog.csdn.net/v_JULY_v) -- 七月在线人工智能培训平台创始人之一
-- 【架构】
-  - [陈皓CoolShell](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
-- 【Linux】
+## 【架构】
+  - [陈皓CoolShell](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
+## 【Linux】
   - [张映](http://blog.51yip.com/) -- 运维大牛，linux命令手册在线查询作者
-  - [刘天斯](https://www.liuts.com/) -- 运维大牛，《Python自动化运维》作者
-- 【电子书分享】
-  - [SaltTiger](https://salttiger.com/) -- 每天一本编程书，每天进步一点点
-- 【Java】
+  - [刘天斯](https://www.liuts.com/) -- 运维大牛，《Python自动化运维》作者
+## 【电子书分享】
+  - [SaltTiger](https://salttiger.com/) -- 每天一本编程书，每天进步一点点
+## 【Java】
   - [飒然Hang](http://www.rowkey.me/) -- 中华万年历技术总监，专注JavaEE，系统架构，大数据等后端技术
   - [王爵nice](https://blog.biezhi.me/) -- tale博客平台，bladeMVC框架，findor项目（个人名片项目）作者
-  - [vzard](https://vzardlloo.github.io/) -- 专注于JVM平台，喜欢深究基础知识
-- 【Android】
-  - [技术小黑屋](https://droidyue.com/) -- InfoQ译者，GDC北京线下演讲者
-  - [kymjs张涛](https://kymjs.com/) -- 专注Android开发，技术实验室公众号作者
-- 【创业者】
-  - [meditic](http://meditic.com/category/all) -- 连续创业者，Tucia网创始人，《降级论》作者
-- 【TensorFlow】
-  - [斗大的熊猫](http://blog.topspeedsnail.com/) -- TensorFlow练习系列文章，深入浅出
-- 【Python】
-  - [luyishisi](https://www.urlteam.org/) -- Github项目Anti-Anti-Spider的作者，致力与反爬虫做斗争
-- 【Django】
-  - [追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
-- 【Golang】
-  - [chai2010](https://chai2010.cn/) -- 《Go 语言圣经》翻译者，《Go 语言高级编程》开源免费图书作者
-- 【C++】
-  - [vczh轮子哥](http://www.cppblog.com/vczh) -- GacUI(这是一个使用GPU加速的C++ UI 库)作者，《C++ Primer》中文版第五版审校人员
-- 【Mac】
-  - [MacTalk池建强](http://macshuo.com/) -- 《MacTalk·人生元编程》作者，讲述技术与人文的故事
-- 【IOS】
+  - [vzard](https://vzardlloo.github.io/) -- 专注于JVM平台，喜欢深究基础知识
+## 【Android】
+  - [技术小黑屋](https://droidyue.com/) -- InfoQ译者，GDC北京线下演讲者
+  - [kymjs张涛](https://kymjs.com/) -- 专注Android开发，技术实验室公众号作者
+## 【创业者】
+  - [meditic](http://meditic.com/category/all) -- 连续创业者，Tucia网创始人，《降级论》作者
+## 【TensorFlow】
+  - [斗大的熊猫](http://blog.topspeedsnail.com/) -- TensorFlow练习系列文章，深入浅出
+## 【Python】
+  - [luyishisi](https://www.urlteam.org/) -- Github项目Anti-Anti-Spider的作者，致力与反爬虫做斗争
+## 【Django】
+  - [追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
+## 【Golang】
+  - [chai2010](https://chai2010.cn/) -- 《Go 语言圣经》翻译者，《Go 语言高级编程》开源免费图书作者
+## 【C++】
+  - [vczh轮子哥](http://www.cppblog.com/vczh) -- GacUI(这是一个使用GPU加速的C++ UI 库)作者，《C++ Primer》中文版第五版审校人员
+## 【Mac】
+  - [MacTalk池建强](http://macshuo.com/) -- 《MacTalk·人生元编程》作者，讲述技术与人文的故事
+## 【IOS】
   - [onevcat王巍](https://onevcat.com/) -- objccn和swifter-tips组织的创始人，专注IOS开发
