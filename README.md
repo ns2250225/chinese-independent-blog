@@ -28,3 +28,4 @@
 - 【Python】[luyishisi](https://www.urlteam.org/) -- Github项目Anti-Anti-Spider的作者，致力与反爬虫做斗争
 - 【Django】[追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
 - 【Golang】[chai2010](https://chai2010.cn/) -- 《Go 语言圣经》翻译者，《Go 语言高级编程》开源免费图书作者
+- 【C++】[vczh轮子哥](http://www.cppblog.com/vczh) -- GacUI(这是一个使用GPU加速的C++ UI 库)作者，《C++ Primer》中文版第五版审校人员
