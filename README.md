@@ -7,6 +7,25 @@
 # 列表格式
 - 【领域/简介】（博客链接）-- 作者简介
 
+# 分类标签
+![](https://img.shields.io/badge/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91--green.svg)
+![](https://img.shields.io/badge/JavaScript--brightgreen.svg)
+![](https://img.shields.io/badge/CSS--yellowgreen.svg)
+![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95--yellow.svg)
+![](https://img.shields.io/badge/%E6%9E%B6%E6%9E%84--orange.svg)
+![](https://img.shields.io/badge/Linux--red.svg)
+![](https://img.shields.io/badge/%E7%94%B5%E5%AD%90%E4%B9%A6--lightgrey.svg)
+![](https://img.shields.io/badge/Java--blue.svg)
+![](https://img.shields.io/badge/Android--brightgreen.svg)
+![](https://img.shields.io/badge/%E5%88%9B%E4%B8%9A%E8%80%85--green.svg)
+![](https://img.shields.io/badge/Tensorflow--yellowgreen.svg)
+![](https://img.shields.io/badge/Python--yellow.svg)
+![](https://img.shields.io/badge/Django--orange.svg)
+![](https://img.shields.io/badge/Golang--red.svg)
+![](https://img.shields.io/badge/C%2B%2B--lightgrey.svg)
+![](https://img.shields.io/badge/Mac--blue.svg)
+![](https://img.shields.io/badge/IOS--brightgreen.svg)
+
 # 博客列表
 - 【游戏开发】
   - [shrekshao狄学长](http://shrekshao.github.io/) -- 机甲帝国游戏全栈开发工程师，爱好webgl，gltf建模
