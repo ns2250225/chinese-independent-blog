@@ -27,3 +27,4 @@
 - 【TensorFlow】[斗大的熊猫](http://blog.topspeedsnail.com/) -- TensorFlow练习系列文章，深入浅出
 - 【Python】[luyishisi](https://www.urlteam.org/) -- Github项目Anti-Anti-Spider的作者，致力与反爬虫做斗争
 - 【Django】[追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
+- 【Golang】[chai2010](https://chai2010.cn/) -- 《Go 语言圣经》翻译者，《Go 语言高级编程》开源免费图书作者
