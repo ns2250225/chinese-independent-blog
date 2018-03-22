@@ -20,5 +20,6 @@
 - 【电子书分享】[SaltTiger](https://salttiger.com/) -- 每天一本编程书，每天进步一点点
 - 【Java】[飒然Hang](http://www.rowkey.me/) -- 中华万年历技术总监，专注JavaEE，系统架构，大数据等后端技术
 - 【Java】[王爵nice](https://blog.biezhi.me/) -- tale博客平台，bladeMVC框架，findor项目（个人名片项目）作者
+- 【Android】[技术小黑屋](https://droidyue.com/) -- InfoQ译者，GDC北京线下演讲者
 - 【Android】[kymjs张涛](https://kymjs.com/) -- 专注Android开发，技术实验室公众号作者
 - 【创业者】[meditic](http://meditic.com/category/all) -- 连续创业者，Tucia网创始人，《降级论》作者
