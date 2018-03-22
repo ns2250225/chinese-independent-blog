@@ -34,6 +34,7 @@
 - [阮一峰老师](http://www.ruanyifeng.com/home.html) -- 《ES6标准入门》作者，常年关注前沿技术
 - [BYVoid](https://www.byvoid.com/) -- 《Node.js开发指南》作者，到访过80+国家
 - [吴浩麟](http://wuhaolin.cn/) -- 《深入浅出WebPack》作者，liveGo开源流媒体服务器作者
+- [Phodal黄峰达](https://www.phodal.com/) -- 《全栈应用开发：精益实践》，《自己动手设计物联网》作者
 ## 【CSS】
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
