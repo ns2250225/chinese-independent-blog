@@ -28,13 +28,14 @@
 
 # 博客列表
 ## 【游戏开发】
-- [shrekshao狄学长](http://shrekshao.github.io/) -- 机甲帝国游戏全栈开发工程师，爱好webgl，gltf建模
-- [云风的Blog](https://blog.codingnow.com/) -- 前网易游戏开发大神，深耕Lua
+- [shrekshao狄学长](http://shrekshao.github.io/) -- 机甲帝国游戏开发工程师，爱好webgl，gltf建模
+- [云风的Blog](https://blog.codingnow.com/) -- 游戏开发大神，深耕Lua
 ## 【JavaScript】
 - [阮一峰老师](http://www.ruanyifeng.com/home.html) -- 《ES6标准入门》作者，常年关注前沿技术
 - [BYVoid](https://www.byvoid.com/) -- 《Node.js开发指南》作者，到访过80+国家
 - [吴浩麟](http://wuhaolin.cn/) -- 《深入浅出WebPack》作者，liveGo开源流媒体服务器作者
 - [Phodal黄峰达](https://www.phodal.com/) -- 《全栈应用开发：精益实践》，《自己动手设计物联网》作者
+- [villianHR](https://www.villainhr.com/) -- 专注于前端技术，尤其是直播方面
 ## 【CSS】
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
@@ -42,8 +43,8 @@
 ## 【架构】
 - [陈皓CoolShell](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
 ## 【Linux】
-- [张映](http://blog.51yip.com/) -- 运维大牛，linux命令手册在线查询作者
-- [刘天斯](https://www.liuts.com/) -- 运维大牛，《Python自动化运维》作者
+- [张映](http://blog.51yip.com/) -- linux命令手册在线查询作者
+- [刘天斯](https://www.liuts.com/) -- 《Python自动化运维》作者
 ## 【电子书分享】
 - [SaltTiger](https://salttiger.com/) -- 每天一本编程书，每天进步一点点
 ## 【Java】
