@@ -42,6 +42,7 @@
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
 - [July](http://blog.csdn.net/v_JULY_v) -- 七月在线人工智能培训平台创始人之一
+- [ZhaoLi李钊](https://livc.io/) -- 算法，机器学习与深度学习
 ## 【架构】
 - [陈皓CoolShell](https://coolshell.cn/) -- MegaEase（为企业提供云化应用架构的产品）创始人
 ## 【Linux】
