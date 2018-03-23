@@ -74,3 +74,5 @@
 - [MacTalk池建强](http://macshuo.com/) -- 《MacTalk·人生元编程》作者，讲述技术与人文的故事
 ## 【IOS】
 - [onevcat王巍](https://onevcat.com/) -- objccn和swifter-tips组织的创始人，专注IOS开发
+## 【网络安全】
+- [sunnyelf](https://hackfun.org/) -- 专注网络安全，awesome-hacking项目的作者
