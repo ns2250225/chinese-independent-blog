@@ -2,7 +2,7 @@
 - 这是一个聚合在某个方向或领域有积累的中国独立博客的列表
 - 会及时移除没有继续维护的链接
 - 排名不分先后
-- 欢迎各位开发者把自己的博客加进来~ 发 Pull Request 或 Issue 即可 
+- 欢迎各位开发者把自己的博客加进来~ 发 Pull Request 或 Issue 即可
 
 # 列表格式
 - 【领域/简介】（博客链接）-- 作者简介
@@ -66,6 +66,7 @@
 ## 【Python】
 - [luyishisi](https://www.urlteam.org/) -- Github项目Anti-Anti-Spider的作者，致力与反爬虫做斗争
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/) -- 不解释
+- [windard](https://windard.com) -- 写一点 python 的东西
 ## 【Django】
 - [追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
 ## 【Golang】
