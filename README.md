@@ -80,3 +80,5 @@
 - [onevcat王巍](https://onevcat.com/) -- objccn和swifter-tips组织的创始人，专注IOS开发
 ## 【网络安全】
 - [sunnyelf](https://hackfun.org/) -- 专注网络安全，awesome-hacking项目的作者
+- [iFurySt](http://www.ifuryst.com/) -- 网络渗透爱好者
+- [xiaix](https://xiaix.me/) -- 网络安全爱好者
