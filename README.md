@@ -3,6 +3,8 @@
 - 会及时移除没有继续维护的链接
 - 排名不分先后
 - 欢迎各位开发者把自己的博客加进来~ 发 Pull Request 或 Issue 即可
+- Gitter地址：dlblog/Lobby
+- Telegram地址：https://t.me/joinchat/HxSr6xMF2KXWE-R220AE5Q
 - 也可以关注下面的微信公众号进行交流
 
 ![](./qrcode.jpg)
