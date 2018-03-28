@@ -45,6 +45,7 @@
 - [Hux黄玄的博客](https://huangxuan.me/) -- 专注前端技术，尤其是PWA方面
 - [PASSER-BY](http://passer-by.com/) -- 分享Web前端学习路上的点滴
 - [冰山一角berg](http://cnberg.div.io/) -- 专注前端，爱好分享旅行之路的点滴，DevLife公众号作者
+- [毓彦](https://www.yuyanlab.com/) -- 个人前端技术实验室，分享学习过程中的经验
 ## 【CSS】
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
