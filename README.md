@@ -80,6 +80,7 @@
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/) -- 不解释
 - [Windard](https://windard.com/) -- 分享python使用中的经验
 - [董伟明](http://www.dongwm.com/) -- 《Python Web开发实战》作者
+- [Airing 的小屋](http://me.ursb.me/) -- B站用户爬虫与数据分析项目，咩咩单词，晴宝天气应用的作者
 ## 【Django】
 - [追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
 ## 【Golang】
