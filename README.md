@@ -47,6 +47,7 @@
 - [冰山一角berg](http://cnberg.div.io/) -- 专注前端，爱好分享旅行之路的点滴，DevLife公众号作者
 - [毓彦](https://www.yuyanlab.com/) -- 个人前端技术实验室，分享学习过程中的经验
 - [树洞AaronLiu](https://aoaoao.me/) -- 构建一个在线ASCII视频流服务项目的作者
+- [DIYgod](https://diygod.me/) -- 前端组件，APlayer 和 DPlayer 项目的作者
 ## 【CSS】
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
