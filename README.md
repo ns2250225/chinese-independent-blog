@@ -48,6 +48,7 @@
 - [毓彦](https://www.yuyanlab.com/) -- 个人前端技术实验室，分享学习过程中的经验
 - [树洞AaronLiu](https://aoaoao.me/) -- 构建一个在线ASCII视频流服务项目的作者
 - [DIYgod](https://diygod.me/) -- 前端组件 APlayer 和 DPlayer 项目的作者，一个对前端和动漫由衷热爱、有趣的前端工程师
+- [RexSkz](https://www.rexskz.info/) -- 音游狗、安全狗、攻城狮、业余设计师、段子手、苦学日语的少年
 ## 【CSS】
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
