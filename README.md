@@ -96,3 +96,4 @@
 - [iFurySt](http://www.ifuryst.com/) -- 网络渗透爱好者
 - [xiaix](https://xiaix.me/) -- 网络安全爱好者
 - [荒原之梦](http://zhaokaifeng.com/) -- 网络安全爱好者
+- [离别歌](https://www.leavesongs.com/) -- 前乌云核心白帽子，喜欢各种代码与审计，另外还是一个想当文人的黑客
