@@ -48,7 +48,7 @@
 - [毓彦](https://www.yuyanlab.com/) -- 个人前端技术实验室，分享学习过程中的经验
 - [树洞AaronLiu](https://aoaoao.me/) -- 构建一个在线ASCII视频流服务项目的作者
 - [DIYgod](https://diygod.me/) -- 前端组件 APlayer 和 DPlayer 项目的作者，一个对前端和动漫由衷热爱、有趣的前端工程师
-- [RexSkz](https://www.rexskz.info/) -- 音游狗、安全狗、攻城狮、业余设计师、段子手、苦学日语的少年
+- [RexSkz](https://www.rexskz.info/) -- 音游、安全、攻城狮、业余设计师、段子手、苦学日语的少年
 ## 【CSS】
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
@@ -70,6 +70,7 @@
 ## 【Android】
 - [技术小黑屋](https://droidyue.com/) -- InfoQ译者，GDC北京线下演讲者
 - [kymjs张涛](https://kymjs.com/) -- 专注Android开发，技术实验室公众号作者
+- [代码家](https://daimajia.com/) -- 掘金技术社区的创办者，干货集中营gank.io的作者
 ## 【创业者】
 - [meditic](http://meditic.com/category/all) -- 连续创业者，Tucia网创始人，《降级论》作者
 ## 【TensorFlow】
