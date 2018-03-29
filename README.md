@@ -79,6 +79,7 @@
 - [luyishisi](https://www.urlteam.org/) -- Github项目Anti-Anti-Spider的作者，致力与反爬虫做斗争
 - [廖雪峰的官方网站](https://www.liaoxuefeng.com/) -- 不解释
 - [Windard](https://windard.com/) -- 分享python使用中的经验
+- [董伟明](http://www.dongwm.com/) -- 《Python Web开发实战》作者
 ## 【Django】
 - [追梦人物的博客](https://www.zmrenwu.com/) -- django-blog-tutorial的作者，专注于 django 开发和国内普及
 ## 【Golang】
