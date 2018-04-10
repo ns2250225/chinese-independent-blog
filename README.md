@@ -29,6 +29,7 @@
 [![](https://img.shields.io/badge/IOS--brightgreen.svg)](#ios)
 [![](https://img.shields.io/badge/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8--blue.svg)](#网络安全)
 [![](https://img.shields.io/badge/PHP--brightgreen.svg)](#php)
+[![](https://img.shields.io/badge/Ruby--red.svg)](#ruby)
 
 # 博客列表
 ## 【游戏开发】
@@ -99,3 +100,6 @@
 - [离别歌](https://www.leavesongs.com/) -- 前乌云核心白帽子，喜欢各种代码与审计，另外还是一个想当文人的黑客
 ## 【PHP】
 - [南丞](http://friday-go.cc/) -- 一个专注于web后端开发的PHP从业者
+
+## 【Ruby】
+- [Hi 上天不？](https://a-wing.top/) -- 水到一定程度的rubyer ，偶尔女装和搞飞机。。还是去编译Linux吧
