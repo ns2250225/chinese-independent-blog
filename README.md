@@ -103,3 +103,4 @@
 
 ## 【区块链】
 - [Tiny熊](http://www.cnblogs.com/tinyxiong/) -- 深入浅出区块链系列文章作者
+- [Gyorou的草稿本](https://www.bocchi.tokyo/) -- 区块链技术爱好者
