@@ -61,6 +61,7 @@
 - [刘天斯](https://www.liuts.com/) -- 《Python自动化运维》作者
 - [Linux大鹏](http://roclinux.cn/) -- 不忘初心的技术博客，专注Linux
 - [依云's Blog](https://blog.lilydjwg.me/) -- 专注Linux
+- [zhonger](https://lisz.io/) -- 专注运维管理
 ## 【电子书分享】
 - [SaltTiger](https://salttiger.com/) -- 每天一本编程书，每天进步一点点
 ## 【Java】
