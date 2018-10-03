@@ -112,4 +112,4 @@
 - [陈健](https://o-my-chenjian.com/) -- Docker与K8s爱好者
 
 ## 【开源软件】
-- [节省哥](http://jasontools.blogspot.com/) -- 开源软件热爱者
+- [节省哥](http://jasontools.blogspot.com/) -- 开源软件热爱者（需要翻墙访问）
