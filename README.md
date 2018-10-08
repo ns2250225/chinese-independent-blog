@@ -110,6 +110,7 @@
 
 ## 【虚拟化】
 - [陈健](https://o-my-chenjian.com/) -- Docker与K8s爱好者
+- [宋净超](https://jimmysong.io/) -- CNCF大使
 
 ## 【开源软件】
 - [节省哥](http://jasontools.blogspot.com/) -- 开源软件热爱者（需要翻墙访问）
