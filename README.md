@@ -76,7 +76,7 @@
 - [代码家](https://daimajia.com/) -- 掘金技术社区的创办者，干货集中营gank.io的作者
 ## 【创业者】
 - [meditic](http://meditic.com/category/all) -- 连续创业者，Tucia网创始人，《降级论》作者
-- [罗磊](https://luolei.org/) -- 《编程5年，我辞职了》文章作者
+- [罗磊](https://luolei.org/) -- 视频自媒体 ZUOLUOTV 制作人
 ## 【TensorFlow】
 - [斗大的熊猫](http://blog.topspeedsnail.com/) -- TensorFlow练习系列文章，深入浅出
 ## 【Python】
