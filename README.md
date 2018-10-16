@@ -119,3 +119,4 @@
 
 ## 【硬件】
 - [自造星球](http://learn.diynova.com/) -- 硬件DIY爱好者
+- [吴川斌](http://www.mr-wu.cn/blog/) -- 一个专注于物联网,LoRa,NB-IOT,智能硬件,可穿戴设备,智能家居,嵌入式系统,Arduino,EDA的创客自媒体
