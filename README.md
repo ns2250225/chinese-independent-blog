@@ -33,6 +33,7 @@
 [![](https://img.shields.io/badge/%E8%99%9A%E6%8B%9F%E5%8C%96--yellowgreen.svg)](#虚拟化)
 [![](https://img.shields.io/badge/%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6--red.svg)](#开源软件)
 [![](https://img.shields.io/badge/%E7%A1%AC%E4%BB%B6--red.svg)](#硬件)
+[![](https://img.shields.io/badge/%E7%A1%AC%E4%BB%B6--red.svg)](#运维)
 
 # 博客列表
 ## 【游戏开发】
