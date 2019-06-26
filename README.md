@@ -122,3 +122,6 @@
 ## 【硬件】
 - [自造星球](http://learn.diynova.com/) -- 硬件DIY爱好者
 - [吴川斌](http://www.mr-wu.cn/blog/) -- 一个专注于物联网,LoRa,NB-IOT,智能硬件,可穿戴设备,智能家居,嵌入式系统,Arduino,EDA的创客自媒体
+
+## 【运维】
+- [老王：互联网运维杂谈微信公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4NjAzMjEyOA==&scene=124#wechat_redirect) -- 善于思考分析总结的运维大佬
