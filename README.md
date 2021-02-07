@@ -53,6 +53,7 @@
 - [DIYgod](https://diygod.me/) -- 前端组件 APlayer 和 DPlayer 项目的作者，一个对前端和动漫由衷热爱、有趣的前端工程师
 - [RexSkz](https://www.rexskz.info/) -- 音游、安全、攻城狮、业余设计师、段子手、苦学日语的少年
 - [钉子の次元](http://blog.dimpurr.com/) -- 热爱前端，交互，二次元的少年
+- [TonyHe](https://www.ouorz.com/) -- 数码产品与电子工具使用/创造者
 ## 【CSS】
 - [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
