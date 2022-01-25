@@ -3,6 +3,7 @@
 - 会及时移除没有继续维护的链接
 - 排名不分先后
 - 欢迎各位开发者把自己的博客加进来~ 发 Pull Request 或 Issue 即可
+- 关于生活博客，大家可以尝试查看[十年之约](https://www.foreverblog.cn/)
 - Gitter地址：https://gitter.im/dlblog/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 - Telegram地址：https://t.me/joinchat/HxSr6xMF2KXWE-R220AE5Q
 
@@ -40,7 +41,7 @@
 - [shrekshao狄学长](http://shrekshao.github.io/) -- 机甲帝国游戏开发工程师，爱好webgl，gltf建模
 - [云风的Blog](https://blog.codingnow.com/) -- 游戏开发大神，深耕Lua
 ## 【JavaScript】
-- [阮一峰老师](http://www.ruanyifeng.com/home.html) -- 《ES6标准入门》作者，常年关注前沿技术
+- [阮一峰老师](https://www.ruanyifeng.com/home.html) -- 《ES6标准入门》作者，常年关注前沿技术
 - [BYVoid](https://www.byvoid.com/) -- 《Node.js开发指南》作者，到访过80+国家
 - [吴浩麟](http://wuhaolin.cn/) -- 《深入浅出WebPack》作者，liveGo开源流媒体服务器作者
 - [Phodal黄峰达](https://www.phodal.com/) -- 《全栈应用开发：精益实践》，《自己动手设计物联网》作者
@@ -54,7 +55,7 @@
 - [RexSkz](https://www.rexskz.info/) -- 音游、安全、攻城狮、业余设计师、段子手、苦学日语的少年
 - [钉子の次元](http://blog.dimpurr.com/) -- 热爱前端，交互，二次元的少年
 ## 【CSS】
-- [张鑫旭](http://www.zhangxinxu.com/)  -- 《CSS世界》作者
+- [张鑫旭](https://www.zhangxinxu.com/)  -- 《CSS世界》作者
 ## 【算法】
 - [July](http://blog.csdn.net/v_JULY_v) -- 七月在线人工智能培训平台创始人之一
 - [ZhaoLi李钊](https://livc.io/) -- 算法，机器学习与深度学习
@@ -122,7 +123,4 @@
 
 ## 【硬件】
 - [自造星球](http://learn.diynova.com/) -- 硬件DIY爱好者
-- [吴川斌](http://www.mr-wu.cn/blog/) -- 一个专注于物联网,LoRa,NB-IOT,智能硬件,可穿戴设备,智能家居,嵌入式系统,Arduino,EDA的创客自媒体
-
-## 【运维】
-- [老王：互联网运维杂谈微信公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4NjAzMjEyOA==&scene=124#wechat_redirect) -- 善于思考分析总结的运维大佬
+- [吴川斌](https://www.mr-wu.cn/blog/) -- 一个专注于物联网,LoRa,NB-IOT,智能硬件,可穿戴设备,智能家居,嵌入式系统,Arduino,EDA的创客自媒体
